@@ -58,7 +58,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.6</version>
                 <configuration>
-                  <outputDirectory>target/Windows</outputDirectory>
+                  <outputDirectory>target/Windows/</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
@@ -92,7 +92,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.6</version>
                 <configuration>
-                  <outputDirectory>target/Linux</outputDirectory>
+                  <outputDirectory>target/Linux/</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
